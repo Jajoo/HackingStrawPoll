@@ -35,3 +35,4 @@ def ChooseOp4():
 
 ChooseOp1()
 
+#Shitty code by Jajoo. Feel free to use it but I don't know why you would
