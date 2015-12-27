@@ -1,3 +1,5 @@
+'''Kinda works but I hit a wall because I don't know anything about IP adresses yet. Will probably pick it up again.'''
+
 import pyautogui
 
 def newTab():
@@ -6,10 +8,6 @@ def newTab():
     pyautogui.rightClick(195, 34)#right clicking
     pyautogui.moveTo(258, 132)
     pyautogui.click()
-'''Kinda works but I hit a wall. Don't know anything about IP adresses. I'll probably pick it up again later'''
-
-
-import pyautogui
 
 def ChooseOp1():
     pyautogui.moveTo(391, 272)#moving to option #1
